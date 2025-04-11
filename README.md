@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="theater/static/icon.ico"/> 
+  <img src="theater/static/cinema.ico"/> 
   Theater Web App with Flask
 </h1>
 <h4 align="center">A theater management and ticket booking system</h5>
