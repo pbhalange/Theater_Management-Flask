@@ -20,20 +20,17 @@ The Theater Web App is a complete theater management and ticket booking system, 
 
 The application offers a responsive and user-friendly interface for seamless interaction, whether it's browsing movies, booking tickets, or managing theater operations from the admin panel.
 
-🔑 Key Features
-User Registration & Login: Secure sign-up and login functionality.
+<h3>🔑 Key Features</h3>
+<ul>
+  <li><strong>User Registration & Login:</strong> Secure sign-up and login functionality.</li>
+  <li><strong>Movie Listings:</strong> View available movies with detailed descriptions.</li>
+  <li><strong>Online Ticket Booking:</strong> Book tickets for movies directly from the app.</li>
+  <li><strong>Admin Dashboard:</strong> Add, edit, or delete movies and projections.</li>
+  <li><strong>Manage Reservations:</strong> Admins can view and manage customer reservations.</li>
+  <li><strong>Error & Info Alerts:</strong> Intuitive success, error, and info messages for better user experience.</li>
+  <li><strong>Responsive Design:</strong> Accessible across devices with a responsive UI.</li>
+</ul>
 
-Movie Listings: View available movies with detailed descriptions.
-
-Online Ticket Booking: Book tickets for movies directly from the app.
-
-Admin Dashboard: Add, edit, or delete movies and projections.
-
-Manage Reservations: Admins can view and manage customer reservations.
-
-Error & Info Alerts: Intuitive success, error, and info messages for better user experience.
-
-Responsive Design: Accessible across devices with a responsive UI.
 
 ## Theater App Screenshots
 
