@@ -1,8 +1,9 @@
-<h1 align="center">
-  <img src="theater/static/cinema.ico"/> 
-  Theater Web App with Flask
+<h1 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="theater/static/cinema.ico" alt="Cinema Icon" style="vertical-align: middle;" width="40"/>
+  <span>Theater Web App with Flask</span>
 </h1>
-<h4 align="center">A theater management and ticket booking system</h5>
+<h4 align="center">A theater management and ticket booking system</h4>
+
 
 <br>
 <details open="open">
